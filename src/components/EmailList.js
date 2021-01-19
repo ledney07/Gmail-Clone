@@ -86,26 +86,6 @@ function EmailList() {
             time={new Date(timestamp?.seconds * 1000).toUTCString()}
           />
         ))}
-        <EmailRow />
-        <EmailRow />
-        <EmailRow />
-        <EmailRow />
-        <EmailRow />
-        <EmailRow />
-        <EmailRow />
-        <EmailRow />
-        <EmailRow />
-        <EmailRow />
-        <EmailRow />
-        <EmailRow />
-        <EmailRow />
-        <EmailRow />
-
-        <EmailRow />
-        <EmailRow />
-
-        <EmailRow />
-        <EmailRow />
       </div>
     </div>
   );
